@@ -1,0 +1,15 @@
+.titlename{
+    font-weight: bolder;
+
+}
+
+.bodywrapper{
+    padding:15px;
+}
+
+.todowrapper{
+    display: grid;
+    gap:50px;
+    grid-template-columns: repeat(4,1fr);
+}
+
